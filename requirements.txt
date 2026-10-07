@@ -3,9 +3,8 @@ pandas
 numpy
 scikit-learn
 xgboost
-shap==0.42.1
 matplotlib
-streamlit-shap
+
 
 
 
