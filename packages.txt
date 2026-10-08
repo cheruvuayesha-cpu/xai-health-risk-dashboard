@@ -1,4 +1,0 @@
-build-essential
-g++
-gfortran
-libgomp1
