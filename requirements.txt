@@ -4,6 +4,8 @@ numpy
 scikit-learn
 matplotlib
 xgboost
+lightgbm
+shap>=0.44.0
 
 
 
