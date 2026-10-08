@@ -1,4 +1,4 @@
-uild-essential
+build-essential
 g++
 gfortran
 libgomp1
