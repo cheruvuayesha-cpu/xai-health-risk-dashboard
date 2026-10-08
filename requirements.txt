@@ -1,31 +1,14 @@
 streamlit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+pandas
+numpy
+scikit-learn
+matploitlib
+seaborn
+plotly
+shap
+lime
+xgboost
+lightgbm
 
 
 
